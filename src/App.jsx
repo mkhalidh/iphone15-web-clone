@@ -9,6 +9,7 @@ import Navbar from "./components/Navbar"
 function App() {
   return (
     <>
+    console.log("App")
       <main className="bg-black">
         <Navbar />
         <section id="Home">
